@@ -1,0 +1,10 @@
+node_modules/*
+test/*.html
+.idea/*
+lib/*
+doc/*
+site_build/*
+site/stylesheets/style.css
+report/*
+temp/*
+dist/*
